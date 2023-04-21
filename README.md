@@ -3,3 +3,5 @@ This is my assignment solutions for the [HTML, CSS, and Javascript for Web Devel
 Links to each solution:
 
 - [assignment2](./assignment2-solution)
+- [assignment3](./assignment3-solution)
+- [assignment3 (OPTIONAL)](./assignment2-solution/optional)

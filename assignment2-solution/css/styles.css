@@ -42,10 +42,10 @@ section {
     padding: 1em;
     padding-top: 2em;
 
-    background-color: #a0a0a0 ;
+    background-color: #a0a0a0;
 }
 
-h2 {
+h3 {
     position: absolute;
     top: 0;
     right: 0;
@@ -61,19 +61,19 @@ h2 {
     text-align: center;
 }
 
-#chicken h2 {
+#chicken h3 {
     background-color: #800000;
 
     color: #ffffff;
 }
 
-#beef h2 {
+#beef h3 {
     background-color: #d88311;
     
     color: #000000;
 }
 
-#sushi h2 {
+#sushi h3 {
     background-color: #197805;
     
     color: #ffffff;
